@@ -1,0 +1,21 @@
+
+# Keil build output
+**/Listings/
+**/Objects/
+
+# Keil user-specific settings
+*.uvguix.*
+*.uvoptx
+
+# STM32CubeIDE build output
+**/Debug/
+**/Release/
+
+# Eclipse workspace metadata
+stm32cube_workspace01/.metadata/
+
+# Temporary and operating-system files
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>C:\Users\Administrator\Desktop\Onat\myEmbeddedWorld\UDEMY\Driver_Development_MCU1\stm32f100xxLM_driver_tests\keil_workspace01\keil_workspace01.uvmpw</WorkspaceName>
+
+  <project>
+    <PathAndName>.\GPIO\GPIO_01_SingleButtonInterrupt\GPIO_01_SingleButtonInterrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SPI\SPI_01_InterruptAPITest\SPI_01_InterruptTest.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C\I2C_01_MasterBlockingTest\I2C_01_MasterBlockingTest.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C\I2C_02_SlaveBlockingTest\I2C_02_SlaveBlockingTest.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C\I2C_03_MasterTransmitReceiveIT\I2C_03_MasterTransmitReceiveIT.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C\I2C_04_SlaveTransmitReceiveIT\I2C_04_SlaveTransmitReceiveIT.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\UART\UART_01_BlockingTest\UART_01_BlockingTest.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\UART\UART_02_InterruptTest\UART_02_InterruptTest.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>
